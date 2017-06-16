@@ -1,0 +1,1353 @@
+2017-06-16 09:07:43 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:07:43 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://mininac.local/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '59488'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604063.22
+    'REQUEST_TIME' => 1497604063
+]
+2017-06-16 09:08:13 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:08:13 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://mininac.local/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '59748'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604093.731
+    'REQUEST_TIME' => 1497604093
+]
+2017-06-16 09:08:23 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:08:23 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '59840'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604103.963
+    'REQUEST_TIME' => 1497604103
+]
+2017-06-16 09:08:54 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:08:54 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '60100'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604134.96
+    'REQUEST_TIME' => 1497604134
+]
+2017-06-16 09:08:55 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:08:55 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '60102'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604135.535
+    'REQUEST_TIME' => 1497604135
+]
+2017-06-16 09:08:55 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:08:55 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '60104'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604135.711
+    'REQUEST_TIME' => 1497604135
+]
+2017-06-16 09:08:55 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:08:55 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '60114'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604135.959
+    'REQUEST_TIME' => 1497604135
+]
+2017-06-16 09:10:46 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:10:46 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '32880'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604246.845
+    'REQUEST_TIME' => 1497604246
+]
+2017-06-16 09:10:47 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:10:47 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '32890'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604247.765
+    'REQUEST_TIME' => 1497604247
+]
+2017-06-16 09:10:48 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:10:48 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '32892'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604248.349
+    'REQUEST_TIME' => 1497604248
+]
+2017-06-16 09:10:48 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:10:48 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '32894'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604248.573
+    'REQUEST_TIME' => 1497604248
+]
+2017-06-16 09:11:37 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33292'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604297.213
+    'REQUEST_TIME' => 1497604297
+]
+2017-06-16 09:11:37 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33302'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604297.757
+    'REQUEST_TIME' => 1497604297
+]
+2017-06-16 09:11:37 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33304'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604297.946
+    'REQUEST_TIME' => 1497604297
+]
+2017-06-16 09:11:38 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33306'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604298.123
+    'REQUEST_TIME' => 1497604298
+]
+2017-06-16 09:11:38 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33308'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604298.329
+    'REQUEST_TIME' => 1497604298
+]
+2017-06-16 09:11:38 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33310'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604298.62
+    'REQUEST_TIME' => 1497604298
+]
+2017-06-16 09:11:38 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33312'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604298.826
+    'REQUEST_TIME' => 1497604298
+]
+2017-06-16 09:11:38 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33322'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604298.985
+    'REQUEST_TIME' => 1497604298
+]
+2017-06-16 09:11:39 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:39 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33324'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604299.167
+    'REQUEST_TIME' => 1497604299
+]
+2017-06-16 09:11:39 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:39 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33326'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604299.307
+    'REQUEST_TIME' => 1497604299
+]
+2017-06-16 09:11:39 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:39 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33328'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604299.469
+    'REQUEST_TIME' => 1497604299
+]
+2017-06-16 09:11:39 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:39 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33330'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604299.691
+    'REQUEST_TIME' => 1497604299
+]
+2017-06-16 09:11:41 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:11:41 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '33332'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604301.035
+    'REQUEST_TIME' => 1497604301
+]
+2017-06-16 09:20:57 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:20:57 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '37924'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604857.556
+    'REQUEST_TIME' => 1497604857
+]
+2017-06-16 09:20:58 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:20:58 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '37926'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604858.244
+    'REQUEST_TIME' => 1497604858
+]
+2017-06-16 09:20:58 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:20:58 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '37936'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497604858.807
+    'REQUEST_TIME' => 1497604858
+]
+2017-06-16 09:24:23 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\assets\AppAsset' not found' in /home/huutu/mininac/views/layouts/main.php:12
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-06-16 09:24:23 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'q26jtmffkiq0f2onnpu1e47tf1'
+    '_ga' => 'GA1.2.968041890.1497594220'
+    '_gid' => 'GA1.2.646629452.1497594220'
+    '0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews' => '1'
+    'brick_v1' => 'cc5961b0-e4f0-575b-a89d-8bec477830da'
+    '_csrf' => 'cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"¨o‚µañÀN§öšf¥0ûWVû{¤]$ÒÝZ€+-j\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'mininac.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=q26jtmffkiq0f2onnpu1e47tf1; _ga=GA1.2.968041890.1497594220; _gid=GA1.2.646629452.1497594220; 0490c39a4df703c7874f_424cc43b72042d9a63d8_pageviews=1; brick_v1=cc5961b0-e4f0-575b-a89d-8bec477830da; _csrf=cb0b941790d502a798018ce07354d5a6d04ca282932cd0bc9e250e0fd291f90da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%A8o%82%B5a%F1%C0N%A7%F6%9Af%A50%8D%FBWV%FB%7B%A4%5D%24%06%D2%14%DDZ%80%2B-j%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at mininac.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'mininac.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/huutu/mininac/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/huutu/mininac/web/index.php'
+    'REMOTE_PORT' => '39674'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1497605063.917
+    'REQUEST_TIME' => 1497605063
+]
